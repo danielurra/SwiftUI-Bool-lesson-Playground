@@ -1,6 +1,6 @@
 # SwiftUI Bool lesson Playground
 SwiftUI Bool lesson Playground
-![Screenshot 2024-03-26 at 6 04 52 AM](https://github.com/danielurra/SwiftUI-Bool-lesson-Playground/assets/51704179/24d25d43-4393-4a0b-b405-4bbc9de20075)
+
 
 ## Grab the code
 ```swift
@@ -23,7 +23,7 @@ isItHot
 age > 16
 age < 16
 
-var amIInTheAppStore = false
+var amIInTheAppStore = true
 
 
 
